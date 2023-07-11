@@ -1,0 +1,13 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+D1,SM0805_LED,1,LED,C84256
+DCDC1,TH_DCDC_Step_up_MT3608,1,DC-DC_GENERIC,
+J1,SIL-3_screw_terminal,1,IN,
+J2,PCB_DC_DC_Outline_v1,1,PCB,
+J3,2019_011_16_CuriousElectricCompany_Logo_Round_Logo_No_words_KiCAD_10mm_PCBLogo,1,LOGO,
+J4,TCEC_Words_13mm,1,LOGO_2,
+J5,SIL-2_solder_connect_2,1,LED PWR,
+J6,SIL-2_screw_terminal,1,OUT,
+Q1,SOT-23,1,2N7002,C8545
+Q2,SOT-23,1,PMV48XP,C2959854
+"R1, R2",SM0805,2,100k,C103905
+"R3, R4",SM0805,2,1k,C103903
